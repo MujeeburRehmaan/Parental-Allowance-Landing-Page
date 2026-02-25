@@ -1,91 +1,108 @@
+# 🌐 Parental Allowance Landing Page
 
+A responsive and modern landing page built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**.  
+This project presents a clean UI for a parental allowance service — including pricing plans, testimonials, an FAQ section, and contact information.
 
-🌐 Parental Allowance Landing Page
+---
 
-A responsive and modern landing page built using HTML, CSS, JavaScript, and Bootstrap.
+## 🚀 Live Demo
 
-This project presents a clean UI for a parental allowance service, including pricing plans, testimonials, FAQ section, and contact information.
+🔗 [Live Preview](https://MujeeburRehmaan.github.io/parental-allowance-landing-page/)
 
-🛠️ Technologies Used
+---
 
-HTML5 – Page structure
+## 🛠️ Technologies Used
 
-CSS3 – Custom styling
+| Technology | Purpose |
+|---|---|
+| HTML5 | Page structure |
+| CSS3 | Custom styling |
+| Bootstrap 5 | Responsive design |
+| JavaScript | Interactive elements |
 
-Bootstrap 5 – Responsive design
+---
 
-JavaScript – Interactive elements
+## ✨ Features
 
-✨ Features
+- ✅ Fully responsive layout (mobile, tablet, desktop)
+- ✅ Modern hero section with call-to-action
+- ✅ Pricing plans section
+- ✅ Testimonials section
+- ✅ FAQ accordion
+- ✅ Contact section with map
+- ✅ Clean and simple file structure
 
-✅ Fully responsive layout
+---
 
-✅ Modern hero section with CTA
+## 📂 Project Structure
 
-✅ Pricing plans section
-
-✅ Testimonials section
-
-✅ FAQ accordion
-
-✅ Contact section with map
-
-✅ Clean and simple file structure
-
-📂 Project Structure
-project-folder/
+```
+parental-allowance-landing-page/
 │
-├── index.html
-├── style.css
-├── script.js
-└── images/
-⚙️ How to Run the Project
+├── index.html        # Main HTML file
+├── style.css         # Custom styles
+├── script.js         # JavaScript interactions
+└── images/           # Image assets
+```
 
-Download or clone the repository
+---
 
-git clone https://github.com/yourusername/repository-name.git
+## ⚙️ How to Run the Project
 
-Open the project folder
+1. **Clone the repository**
 
-Double-click index.html to open in your browser
+```bash
+git clone https://github.com/MujeeburRehmaan/parental-allowance-landing-page.git
+```
 
-That’s it ✅
+2. **Open the project folder**
 
-🌍 Deployment
+```bash
+cd parental-allowance-landing-page
+```
 
-You can deploy this project easily using:
+3. **Run the project**  
+   Simply double-click `index.html` to open it in your browser — no build tools or server required. ✅
 
-GitHub Pages
+---
 
-Netlify
+## 🌍 Deployment
 
-Vercel
+You can deploy this project easily using any of the following platforms:
 
-To deploy with GitHub Pages:
+- **GitHub Pages** *(recommended — free & easy)*
+- **Netlify**
+- **Vercel**
 
-Go to your repository
+### Deploy with GitHub Pages
 
-Click Settings
+1. Go to your repository on GitHub
+2. Click **Settings**
+3. Navigate to **Pages** in the left sidebar
+4. Under **Branch**, select `main`
+5. Click **Save**
+6. Your site will be live at `https://yourusername.github.io/repository-name/`
 
-Go to Pages
+---
 
-Select branch → main
+## 📚 What I Practiced
 
-Click Save
+- Building a complete responsive landing page from scratch
+- Using the **Bootstrap 5** grid system and components
+- Writing clean, organized, and maintainable **CSS**
+- Adding interactivity and smooth UX with **JavaScript**
+- Structuring a simple, professional frontend project
+- Deploying a static site using **GitHub Pages**
 
-📚 What I Practiced
+---
 
-Building a complete responsive landing page
+## 👨‍💻 Author
 
-Using Bootstrap grid system
+**Mujeebur Rehmaan**  
+🔗 GitHub: [@MujeeburRehmaan](https://github.com/MujeeburRehmaan)
 
-Writing clean and organized CSS
+---
 
-Adding interactivity using JavaScript
+## 📄 License
 
-Structuring a simple frontend project
-
-👨‍💻 Author
-
-Your Name
-GitHub: https://github.com/MujeeburRehmaan
+This project is open source and available under the [MIT License](LICENSE).
