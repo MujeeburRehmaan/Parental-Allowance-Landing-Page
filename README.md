@@ -81,7 +81,8 @@ You can deploy this project easily using any of the following platforms:
 3. Navigate to **Pages** in the left sidebar
 4. Under **Branch**, select `main`
 5. Click **Save**
-6. Your site will be live at `https://yourusername.github.io/repository-name/`
+6. Your site will be live at `https://MujeeburRehmaan.github.io/Parental-Allowance-Landing-Page
+/`
 
 ---
 
